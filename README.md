@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-We use the [WHU-CD]() and [SYSU-CD]() for bitemporal satellite images.
+We use the [WHU-CD](https://gpcv.whu.edu.cn/data/building_dataset.html) and [SYSU-CD](https://github.com/liumency/SYSU-CD) for bitemporal satellite images.
 
 **Folder structure**:
 ```
@@ -43,7 +43,7 @@ All the parameters are in path_hyperparameter.py, which can make users change it
 
 ## Credits
 
-The code of this repository partly relies on [SGSLN](), I would like to show my sincere gratitude to authors of them.
+The code of this repository partly relies on [SGSLN](https://github.com/NJU-LHRS/offical-SGSLN), I would like to show my sincere gratitude to authors of them.
 
 
 
