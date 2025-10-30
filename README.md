@@ -30,8 +30,8 @@ dataset/
 ├── train/
 │ ├── t1/
 │ ├── t2/
-│ ├── t1_change/
-│ ├── t2_change/
+│ ├── t1_label/
+│ ├── t2_label/
 │ └── change_label/
 ├── val/
 └── test/
